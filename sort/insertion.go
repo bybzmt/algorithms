@@ -1,4 +1,3 @@
-//排序法算练习
 package sort
 
 import (
